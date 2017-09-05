@@ -12,3 +12,7 @@ html:-moz-full-screen-ancestor {
   background: #272822;
   background-color: #272822;
 }
+
+.reveal pre {
+  box-shadow : none;
+}
