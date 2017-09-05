@@ -1,14 +1,14 @@
 body {
-  background: #000;
-  background-color: #000;
+  background: #272822;
+  background-color: #272822;
 }
 
 html:-webkit-full-screen-ancestor {
-  background: #000;
-  background-color: #000;
+  background: #272822;
+  background-color: #272822;
 }
 
 html:-moz-full-screen-ancestor {
-  background: #000;
-  background-color: #000;
+  background: #272822;
+  background-color: #272822;
 }
