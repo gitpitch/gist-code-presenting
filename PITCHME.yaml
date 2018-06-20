@@ -1,3 +1,4 @@
 theme : black
 highlight : ir-black
+code-reveal : true
 theme-override : assets/custom.css
