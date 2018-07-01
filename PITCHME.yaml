@@ -1,3 +1,4 @@
 theme : black
 highlight : ir-black
+code-line-numbers : true
 theme-override : assets/custom.css
