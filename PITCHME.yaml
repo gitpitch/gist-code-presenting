@@ -1,4 +1,5 @@
 theme : black
 highlight : ir-black
 code-line-numbers : true
+print-fragments :  true
 theme-override : assets/custom.css
