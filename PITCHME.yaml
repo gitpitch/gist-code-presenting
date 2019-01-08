@@ -1,3 +1,4 @@
 theme : black
 highlight : ir-black
 theme-override : assets/custom.css
+print-fragments : true
