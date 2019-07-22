@@ -1,4 +1,3 @@
-theme : black
-highlight : ir-black
-theme-override : assets/custom.css
-print-fragments : true
+theme : template
+highlight : tomorrow 
+theme-override : assets/css/custom.css
